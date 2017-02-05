@@ -1,5 +1,2 @@
-SideframeÊÇÒ»¿î»ùÓÚbootstrap¿ò¼ÜµÄÑùÊ½²å¼þ.
-¹¦ÄÜÖ÷ÒªÊÇ¸øÒ³ÃæÌí¼Ó²à±ßµ¼º½.
-¿ª·¢Ð¡×é£º 
-×é³¤£ººØÈüÈü
-×éÔ±£ºÍõË§£¬ÁõÕä·ï
+Sideframeæ˜¯ä¸€æ¬¾åŸºäºŽbootstrapæ¡†æž¶çš„æ ·å¼æ’ä»¶.
+åŠŸèƒ½ä¸»è¦æ˜¯ç»™é¡µé¢æ·»åŠ ä¾§è¾¹å¯¼èˆª.
